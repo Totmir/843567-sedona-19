@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Александр](https://up.htmlacademy.ru/adaptive/19/user/843567).
-* Наставник: `Неизвестно`.
+- Студент: [Александр](https://up.htmlacademy.ru/adaptive/19/user/843567).
+- Наставник: `Sam Susam`.
 
 ---
 
